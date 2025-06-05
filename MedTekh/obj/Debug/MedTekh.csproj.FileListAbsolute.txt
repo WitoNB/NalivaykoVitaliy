@@ -1,0 +1,11 @@
+C:\Users\student.BAK93\Documents\Visual Studio 2022\MedTekh\bin\Debug\MedTekh.exe.config
+C:\Users\student.BAK93\Documents\Visual Studio 2022\MedTekh\bin\Debug\MedTekh.exe
+C:\Users\student.BAK93\Documents\Visual Studio 2022\MedTekh\bin\Debug\MedTekh.pdb
+C:\Users\student.BAK93\Documents\Visual Studio 2022\MedTekh\obj\Debug\MedTekh.csproj.AssemblyReference.cache
+C:\Users\student.BAK93\Documents\Visual Studio 2022\MedTekh\obj\Debug\MedTekh.csproj.SuggestedBindingRedirects.cache
+C:\Users\student.BAK93\Documents\Visual Studio 2022\MedTekh\obj\Debug\MedTekh.Form1.resources
+C:\Users\student.BAK93\Documents\Visual Studio 2022\MedTekh\obj\Debug\MedTekh.Properties.Resources.resources
+C:\Users\student.BAK93\Documents\Visual Studio 2022\MedTekh\obj\Debug\MedTekh.csproj.GenerateResource.cache
+C:\Users\student.BAK93\Documents\Visual Studio 2022\MedTekh\obj\Debug\MedTekh.csproj.CoreCompileInputs.cache
+C:\Users\student.BAK93\Documents\Visual Studio 2022\MedTekh\obj\Debug\MedTekh.exe
+C:\Users\student.BAK93\Documents\Visual Studio 2022\MedTekh\obj\Debug\MedTekh.pdb
